@@ -32,9 +32,8 @@ const Navbar = () => {
         <ul className="flex flex-col items-center mt-4 gap-4 text-lg md:hidden">
           <li className="hover:text-pink-400 cursor-pointer">Home</li>
           <li className="hover:text-pink-400 cursor-pointer">About Me</li>
-          <li className="hover:text-pink-400 cursor-pointer">Services</li>
-          <li className="hover:text-pink-400 cursor-pointer">Portfolio</li>
-          <li className="hover:text-pink-400 cursor-pointer">Contact</li>
+          <li className="hover:text-pink-400 cursor-pointer">Skills</li>
+          <li className="hover:text-pink-400 cursor-pointer">Projects</li>
           <button className="bg-pink-500 hover:bg-pink-600 px-4 py-2 rounded-lg font-semibold">
             Connect with Me
           </button>
